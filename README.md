@@ -1,0 +1,2 @@
+# python_algorithm
+アルゴリズムとデータ構造の基礎をPythonを用いて確認するプロジェクト
